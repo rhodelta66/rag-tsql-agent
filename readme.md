@@ -2,6 +2,8 @@
 
 A Retrieval-Augmented Generation (RAG) agent that helps create T-SQL code based on existing stored procedures in TSQL.APP Framework database. This agent is specifically designed to work with UI-related stored procedures that use `sp_api_*` procedures for creating interactive user interfaces directly from T-SQL.
 
+![](https://250.tracy.nu/239/storage/xwicmhl59xgikt59parqtogersokc1eh)
+
 ## Features
 
 - Connects to SQL Server Express with Windows authentication
