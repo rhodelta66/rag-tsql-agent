@@ -1,0 +1,10 @@
+pyodbc
+sqlalchemy
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+openai
+chromadb
+pydantic
+python-dotenv
